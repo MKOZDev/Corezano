@@ -47,7 +47,12 @@ export default async function ProductsPage({
   const [orderby, order] = sort.split("_");
 
   const [{ products }, categories, brands] = await Promise.all([
-    getProductsFiltered({ locale, categorySlug: category, orderby, order }),
+    getProductsFiltered({
+      locale,
+      categorySlug: category ?? undefined,
+      orderby,
+      order,
+    }),
     getCategories({ locale }),
     getBrands(),
   ]);
