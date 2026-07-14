@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "products": "Products",
+    "categories": "Categories",
+    "cart": "Cart",
+    "language": "Language",
+    "toggleTheme": "Toggle",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
+  },
+  "product": {
+    "addToCart": "Add to cart",
+    "outOfStock": "Out of stock",
+    "onSale": "Sale"
+  },
+  "common": {
+    "search": "Search",
+    "loading": "Loading..."
+  },
+  "why": {
+    "eyebrow": "The Corezano Promise",
+    "title": "Why Corezano",
+    "brandsLabel": "Leading brands",
+    "features": {
+      "brands": {
+        "title": "Only A-brands",
+        "description": "Original, sealed and with full manufacturer warranty."
+      },
+      "delivery": {
+        "title": "Fast delivery",
+        "description": "Shipped by courier. Fast and reliable delivery to your door."
+      },
+      "curated": {
+        "title": "Expert-curated",
+        "description": "Range curated by experienced PC builders, no noise."
+      },
+      "payment": {
+        "title": "Secure payment",
+        "description": "Przelewy24 — encrypted and PCI-compliant."
+      }
+    }
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty.",
+    "total": "Total",
+    "checkout": "Checkout →",
+    "loading": "Loading...",
+    "shipping": "Free",
+    "shippingLabel": "Shipping",
+    "remove": "Remove",
+    "less": "Less",
+    "more": "More",
+    "close": "Close",
+    "paymentNote": "Przelewy24"
+  },
+  "products": {
+    "allProducts": "All products",
+    "results": "results",
+    "sort": "Sort",
+    "noProducts": "No products found.",
+    "sortOptions": {
+      "popularity": "Popularity",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "nameAsc": "Name A–Z"
+    },
+    "filters": {
+      "title": "Filters",
+      "category": "Category",
+      "brand": "Brand",
+      "price": "Price"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Products"
+    }
+  },
+  "hero": {
+    "viewProduct": "View product",
+    "goToSlide": "Go to slide"
+  },
+  "bestsellers": {
+    "eyebrow": "Popular now",
+    "title": "Bestsellers",
+    "viewAll": "View all"
+  },
+  "productPage": {
+    "inStock": "In stock",
+    "limitedStock": "Limited stock",
+    "outOfStock": "Out of stock",
+    "onBackorder": "Pre-order",
+    "inclVat": "incl. VAT",
+    "addToCart": "Add to cart",
+    "delivery": "Shipped by courier. Fast and reliable delivery.",
+    "returnPolicy": "14 day return",
+    "warranty": "Manufacturer warranty",
+    "payment": "Przelewy24",
+    "tabs": {
+      "specs": "Specifications",
+      "description": "Description"
+    },
+    "similarProducts": "Similar products",
+    "breadcrumb": {
+      "home": "Home"
+    }
+  },
+  "categories": {
+    "products": "products"
+  },
+  "announcement": {
+    "message": "Order processing will be available from July 24 — stay tuned!"
+  },
+  "footer": {
+    "tagline": "PC components for gamers, creators and professionals. Delivered by courier, pay securely with Przelewy24.",
+    "shop": {
+      "title": "Shop",
+      "all": "All products"
+    },
+    "info": {
+      "title": "Information"
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "returns": "Returns (14 days)"
+    },
+    "payment": {
+      "title": "Payment & Delivery"
+    },
+    "disclaimer": "Product images are AI-generated illustrations",
+    "allRights": "All rights reserved."
+  }
+}

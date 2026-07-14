@@ -1,0 +1,134 @@
+{
+  "nav": {
+    "products": "Producten",
+    "categories": "Categorieën",
+    "cart": "Winkelwagen",
+    "language": "Taal",
+    "toggleTheme": "Wisselen",
+    "darkMode": "Donkere modus",
+    "lightMode": "Lichte modus"
+  },
+  "product": {
+    "addToCart": "Toevoegen aan winkelwagen",
+    "outOfStock": "Niet op voorraad",
+    "onSale": "Aanbieding"
+  },
+  "common": {
+    "search": "Zoeken",
+    "loading": "Laden..."
+  },
+  "why": {
+    "eyebrow": "De Corezano Belofte",
+    "title": "Waarom Corezano",
+    "brandsLabel": "Toonaangevende merken",
+    "features": {
+      "brands": {
+        "title": "Alleen A-merken",
+        "description": "Origineel, verzegeld en met volledige fabrieksgarantie."
+      },
+      "delivery": {
+        "title": "Snelle levering",
+        "description": "Verzonden via koerier. Snelle en betrouwbare levering aan huis."
+      },
+      "curated": {
+        "title": "Expertcuratie",
+        "description": "Assortiment samengesteld door ervaren pc-bouwers, geen ruis."
+      },
+      "payment": {
+        "title": "Veilig betalen",
+        "description": "Przelewy24 — versleuteld en PCI-compliant."
+      }
+    }
+  },
+  "cart": {
+    "title": "Winkelwagen",
+    "empty": "Je winkelwagen is leeg.",
+    "total": "Totaal",
+    "checkout": "Afrekenen →",
+    "loading": "Bezig...",
+    "shipping": "Gratis",
+    "shippingLabel": "Verzendkosten",
+    "remove": "Verwijderen",
+    "less": "Minder",
+    "more": "Meer",
+    "close": "Sluiten",
+    "paymentNote": "Przelewy24"
+  },
+  "products": {
+    "allProducts": "Alle producten",
+    "results": "resultaten",
+    "sort": "Sorteren",
+    "noProducts": "Geen producten gevonden.",
+    "sortOptions": {
+      "popularity": "Populariteit",
+      "priceAsc": "Prijs: Laag naar Hoog",
+      "priceDesc": "Prijs: Hoog naar Laag",
+      "nameAsc": "Naam A–Z"
+    },
+    "filters": {
+      "title": "Filters",
+      "category": "Categorie",
+      "brand": "Merk",
+      "price": "Prijs"
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Producten"
+    }
+  },
+  "hero": {
+    "viewProduct": "Bekijk product",
+    "goToSlide": "Ga naar slide"
+  },
+  "bestsellers": {
+    "eyebrow": "Populair nu",
+    "title": "Bestsellers",
+    "viewAll": "Alles bekijken"
+  },
+  "productPage": {
+    "inStock": "Op voorraad",
+    "limitedStock": "Beperkt op voorraad",
+    "outOfStock": "Niet op voorraad",
+    "onBackorder": "Pre-order",
+    "inclVat": "incl. btw",
+    "addToCart": "In winkelwagen",
+    "delivery": "Verzonden via koerier. Snelle en betrouwbare levering.",
+    "returnPolicy": "14 dagen retour",
+    "warranty": "Fabrieksgarantie",
+    "payment": "Przelewy24",
+    "tabs": {
+      "specs": "Specificaties",
+      "description": "Omschrijving"
+    },
+    "similarProducts": "Vergelijkbare producten",
+    "breadcrumb": {
+      "home": "Home"
+    }
+  },
+  "categories": {
+    "products": "producten"
+  },
+  "announcement": {
+    "message": "Bestellingen plaatsen is mogelijk vanaf 24 juli — kom snel terug!"
+  },
+  "footer": {
+    "tagline": "Pc-componenten voor gamers, creators en professionals. Bezorgd via koerier, betaal veilig met Przelewy24.",
+    "shop": {
+      "title": "Winkel",
+      "all": "Alle producten"
+    },
+    "info": {
+      "title": "Informatie"
+    },
+    "legal": {
+      "privacy": "Privacybeleid",
+      "terms": "Algemene voorwaarden",
+      "returns": "Retourneren (14 dagen)"
+    },
+    "payment": {
+      "title": "Betalen & Bezorgen"
+    },
+    "disclaimer": "Productafbeeldingen zijn gestileerde illustraties",
+    "allRights": "Alle rechten voorbehouden."
+  }
+}
