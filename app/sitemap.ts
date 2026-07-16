@@ -61,7 +61,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Strony kategorii
   const categoryPages: MetadataRoute.Sitemap = categoriesEN.map(
     (cat: { slug: unknown }) => {
-      const nlCat = categoriesNL.find((c) => c.slug === cat.slug);
+      const nlCat = categoriesNL.find(
+        (c: { slug: unknown }) => c.slug === cat.slug,
+      );
       return {
         url: `${BASE_URL}/products?category=${cat.slug}`,
         lastModified: new Date(),
