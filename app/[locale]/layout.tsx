@@ -202,6 +202,13 @@ export default async function RootLayout({
       className={`${spaceGrotesk.variable} ${plusJakarta.variable} ${ibmPlexMono.variable} h-full antialiased`}
     >
       <head>
+        <Script
+          id="Cookiebot"
+          src="https://consent.cookiebot.com/uc.js"
+          data-cbid="14f98068-d935-4688-bef8-0cbd5a9b4793"
+          data-blockingmode="auto"
+          type="text/javascript"
+        />
         <Script id="theme-init" strategy="beforeInteractive">
           {themeInitScript}
         </Script>
