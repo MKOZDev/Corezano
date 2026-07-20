@@ -265,10 +265,10 @@ export function ProductPageClient({ product, similarProducts = [] }) {
                   <ShieldCheck className="w-3 h-3" />
                   {t("warranty")}
                 </span>
-                <span className="flex items-center gap-1">
+                {/* <span className="flex items-center gap-1">
                   <CreditCard className="w-3 h-3" />
                   {t("payment")}
-                </span>
+                </span> */}
               </div>
             </motion.div>
           </motion.div>

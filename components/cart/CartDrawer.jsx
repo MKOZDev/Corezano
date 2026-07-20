@@ -161,9 +161,9 @@ export function CartDrawer() {
             </div>
 
             <button
-              onClick={handleCheckout}
+              // onClick={handleCheckout}
               disabled={isCheckingOut}
-              className="mt-3 w-full py-4 rounded-cv pointer-events-none cursor-pointer bg-cv-accent text-cv-on-accent font-bold flex items-center justify-center gap-2 hover:opacity-90 transition-opacity disabled:opacity-60"
+              className="mt-3 w-full py-4 rounded-cv cursor-pointer bg-cv-accent text-cv-on-accent font-bold flex items-center justify-center gap-2 hover:opacity-90 transition-opacity disabled:opacity-60"
             >
               {isCheckingOut ? t("loading") : t("checkout")}
             </button>

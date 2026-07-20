@@ -86,7 +86,7 @@ export function Footer({ categories = [] }) {
           </div>
 
           {/* Betalen & Bezorgen */}
-          <div className="flex flex-col gap-3">
+          {/* <div className="flex flex-col gap-3">
             <span className="text-xs font-mono uppercase tracking-widest text-cv-faint">
               {t("payment.title")}
             </span>
@@ -100,7 +100,7 @@ export function Footer({ categories = [] }) {
                 </span>
               ))}
             </div>
-          </div>
+          </div> */}
         </div>
       </Wrapper>
       <div className="mt-8 max-sm:mt-5 pt-8 max-sm:pt-5 border-t border-cv-border ">

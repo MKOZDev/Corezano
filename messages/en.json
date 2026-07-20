@@ -36,7 +36,7 @@
       },
       "payment": {
         "title": "Secure payment",
-        "description": "Przelewy24 — encrypted and PCI-compliant."
+        "description": " — encrypted and PCI-compliant."
       }
     }
   },
@@ -52,7 +52,7 @@
     "less": "Less",
     "more": "More",
     "close": "Close",
-    "paymentNote": "Przelewy24"
+    "paymentNote": ""
   },
   "products": {
     "allProducts": "All products",
@@ -95,7 +95,7 @@
     "delivery": "Shipped by courier. Fast and reliable delivery.",
     "returnPolicy": "14 day return",
     "warranty": "Manufacturer warranty",
-    "payment": "Przelewy24",
+    "payment": "",
     "tabs": {
       "specs": "Specifications",
       "description": "Description"
@@ -109,10 +109,10 @@
     "products": "products"
   },
   "announcement": {
-    "message": "Order processing will be available from July 24 — stay tuned!"
+    "message": "Order processing will be available soon — stay tuned!"
   },
   "footer": {
-    "tagline": "PC components for gamers, creators and professionals. Delivered by courier, pay securely with Przelewy24.",
+    "tagline": "PC components for gamers, creators and professionals. Delivered by courier, pay securely with .",
     "shop": {
       "title": "Shop",
       "all": "All products"

@@ -36,7 +36,7 @@
       },
       "payment": {
         "title": "Veilig betalen",
-        "description": "Przelewy24 — versleuteld en PCI-compliant."
+        "description": " — versleuteld en PCI-compliant."
       }
     }
   },
@@ -52,7 +52,7 @@
     "less": "Minder",
     "more": "Meer",
     "close": "Sluiten",
-    "paymentNote": "Przelewy24"
+    "paymentNote": ""
   },
   "products": {
     "allProducts": "Alle producten",
@@ -95,7 +95,7 @@
     "delivery": "Verzonden via koerier. Snelle en betrouwbare levering.",
     "returnPolicy": "14 dagen retour",
     "warranty": "Fabrieksgarantie",
-    "payment": "Przelewy24",
+    "payment": "",
     "tabs": {
       "specs": "Specificaties",
       "description": "Omschrijving"
@@ -109,10 +109,10 @@
     "products": "producten"
   },
   "announcement": {
-    "message": "Bestellingen plaatsen is mogelijk vanaf 24 juli — kom snel terug!"
+    "message": "Bestellingen plaatsen is binnenkort mogelijk — kom snel terug!"
   },
   "footer": {
-    "tagline": "Pc-componenten voor gamers, creators en professionals. Bezorgd via koerier, betaal veilig met Przelewy24.",
+    "tagline": "Pc-componenten voor gamers, creators en professionals. Bezorgd via koerier, betaal veilig met .",
     "shop": {
       "title": "Winkel",
       "all": "Alle producten"
