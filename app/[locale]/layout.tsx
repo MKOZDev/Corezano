@@ -107,6 +107,7 @@ export const metadata: Metadata = {
     languages: {
       "nl-NL": BASE_URL,
       "en-GB": `${BASE_URL}/en`,
+      "x-default": BASE_URL,
     },
   },
 };

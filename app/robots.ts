@@ -10,6 +10,5 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
     sitemap: "https://corezano.eu/sitemap.xml",
-    host: "https://corezano.eu",
   };
 }
